@@ -70,3 +70,4 @@ In this section the data is trained by changing the hidden layer number as well 
 2. Regression Based Deep Learning : RAinfall Prediction using (Temperature and Relative Humidity as input)
 
 DAV Deep Learning.ipnpy and forDeep Learning.ipnpy containg various models. 
+Answers EQ1
